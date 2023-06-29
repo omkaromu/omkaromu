@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omkaromu
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...django web development
+- 👋 Hi, I’m @omkar
+- 👀 I’m interested in ...Java and C++
+- 🌱 I’m currently learning ...ReactJs
 - 💞️ I’m looking to collaborate on ...It industries
 - 📫 How to reach me ...
 
